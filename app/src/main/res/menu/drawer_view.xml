@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/avatar"
+            android:title="@string/profile" />
+        <item
+            android:id="@+id/medicines"
+            android:icon="@drawable/medicine"
+            android:title="@string/medicines" />
+        <item
+            android:id="@+id/pharmacies"
+            android:icon="@drawable/hospital"
+            android:title="@string/pharmacies" />
+        <item
+            android:id="@+id/doctors"
+            android:icon="@drawable/doctor"
+            android:title="@string/doctors" />
+        <item
+            android:id="@+id/clinic"
+            android:icon="@drawable/hospital1"
+            android:title="@string/clinics"/>
+    </group>
+</menu>

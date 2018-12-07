@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MedicineShop</string>
+    <string name="android_medicine">Medicine Shop Inc.</string>
+    <string name="profile">Profile</string>
+    <string name="medicines">Medicines</string>
+    <string name="pharmacies">Pharmacies</string>
+    <string name="doctors">Doctors</string>
+    <string name="clinics">Clinics</string>
+</resources>
